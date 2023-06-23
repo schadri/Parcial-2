@@ -157,6 +157,7 @@
 
 .footer-text {
   margin-bottom: 10px;
+  text-align: center;
 }
 
 .social-icons {
@@ -174,14 +175,26 @@
   display: inline-block;
   width: 30px;
   height: 30px;
-  background-color: #333;
   text-align: center;
   color: #fff;
   border-radius: 50%;
   line-height: 30px;
 }
 
+.facebook {
+  width: 5vh;
+  height: 5vh;
+}
 
+.twitter {
+  width: 5vh;
+  height: 5vh;
+}
+
+.instagram {
+  width: 5vh;
+  height: 5vh;
+}
 
 
 
