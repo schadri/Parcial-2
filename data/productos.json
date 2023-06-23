@@ -1,0 +1,68 @@
+{
+  "categories": {
+    "burgers": {
+      "name": "Hamburguesas",
+      "data": [
+        {
+          "id": 1,
+          "name": "Cheese Burguer",
+          "price": 3500,
+          "description": "Hamburguesa con keso",
+          "image": ""
+        },
+        {
+          "id": 2,
+          "name": "Beacon Burguer",
+          "price": 4500,
+          "description": "Hamburguesa con beacon",
+          "image": ""
+        },
+        {
+          "id": 3,
+          "name": "Vapor Burguer",
+          "price": 2500,
+          "description": "Hamburguesa al vapor, terminologia de Nueva York, Albany",
+          "image": ""
+        }
+      ]
+    },
+    "veggie": {
+      "name": "Vegano",
+      "data": [
+        {
+          "id": 4,
+          "name": "Vegan Burguer",
+          "price": 2500,
+          "description": "Hamburguesa Vegana",
+          "image": ""
+        }
+      ]
+    },
+    "drinks": {
+      "name": "Bebidas",
+      "data": [
+        {
+          "id": 5,
+          "name": "Coca-Cola x 500ml",
+          "price": 500,
+          "description": "Coca-Cola x 500ml",
+          "image": ""
+        },
+        {
+          "id": 6,
+          "name": "Sprite x 500ml",
+          "price": 500,
+          "description": "Sprite x 500ml",
+          "image": ""
+        },
+        {
+          "id": 7,
+          "name": "Agua Villavicencio",
+          "price": 100,
+          "description": "Agua Mineral",
+          "image": ""
+        }
+      ]
+    }
+  }
+}
