@@ -8,21 +8,21 @@
           "name": "Cheese Burguer",
           "price": 3500,
           "description": "Hamburguesa con keso",
-          "image": ""
+          "image": "./img/productos/Hamburguesas/Cheesburguer.png"
         },
         {
           "id": 2,
           "name": "Beacon Burguer",
           "price": 4500,
           "description": "Hamburguesa con beacon",
-          "image": ""
+          "image": "./img/productos/Hamburguesas/Beacon.png"
         },
         {
           "id": 3,
           "name": "Vapor Burguer",
           "price": 2500,
           "description": "Hamburguesa al vapor, terminologia de Nueva York, Albany",
-          "image": ""
+          "image": "./img/productos/Hamburguesas/hamburg-vapor.png"
         }
       ]
     },

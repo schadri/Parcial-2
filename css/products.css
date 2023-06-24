@@ -1,0 +1,33 @@
+.card {
+    margin: 1em 0;
+    cursor: pointer;
+    background-color: #3f4244;
+    color: white
+}
+
+.products-title {
+    margin: 1em 0;
+
+}
+
+.card-eye {
+    position: absolute;
+    right: 0;
+    padding: 10px 10px 0 0;
+
+}
+
+.card-eye i {
+    font-size: 25px;
+    color: white;
+}
+
+.card-eye button {
+    border: 0;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.card-img-top {
+    height: 100%;
+    width: 100%;
+}
