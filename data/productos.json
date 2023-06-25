@@ -21,7 +21,7 @@
           "id": 3,
           "name": "Vapor Burguer",
           "price": 2500,
-          "description": "Hamburguesa al vapor, terminologia de Nueva York, Albany",
+          "description": "Hamburguesa al vapor de Nueva York",
           "image": "./img/products/burguers/hamburg-vapor.png"
         }
       ]
