@@ -1,6 +1,12 @@
 body {
     background-color: #242729;
     color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.icon{
+    width: 30px;
+    height: 30px;
 }
 
 .footer {

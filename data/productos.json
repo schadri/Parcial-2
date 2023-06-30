@@ -34,7 +34,7 @@
           "name": "Vegan Burguer",
           "price": 2500,
           "description": "Hamburguesa Vegana",
-          "image": ""
+          "image": "./img/products/burgers/vegan.png"
         }
       ]
     },
@@ -46,21 +46,21 @@
           "name": "Coca-Cola x 500ml",
           "price": 500,
           "description": "Coca-Cola x 500ml",
-          "image": ""
+          "image": "./img/products/bebidas/Coca_cola.png"
         },
         {
           "id": 6,
           "name": "Sprite x 500ml",
           "price": 500,
           "description": "Sprite x 500ml",
-          "image": ""
+          "image": "./img/products/bebidas/Sprite.png"
         },
         {
           "id": 7,
           "name": "Agua Villavicencio",
           "price": 100,
           "description": "Agua Mineral",
-          "image": ""
+          "image": "./img/products/bebidas/Villavicencio.png"
         }
       ]
     }
