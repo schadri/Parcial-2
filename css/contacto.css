@@ -2,4 +2,12 @@
     max-width: 700px;
     margin: 50px;
     
+    
+}
+
+.send-button{
+    background-color: #414344;
+    color: white;
+    border-color: #414344;
+    margin: 15px 0;
 }
