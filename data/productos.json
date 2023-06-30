@@ -7,7 +7,7 @@
           "id": 1,
           "name": "Cheese Burguer",
           "price": 3500,
-          "description": "Hamburguesa con keso",
+          "description": "Hamburguesa con Queso",
           "image": "./img/products/burgers/Cheesburguer.png"
         },
         {
@@ -21,7 +21,7 @@
           "id": 3,
           "name": "Vapor Burguer",
           "price": 2500,
-          "description": "Hamburguesa al vapor, terminologia de Nueva York, Albany",
+          "description": "Hamburguesa al vapor de Nueva York",
           "image": "./img/products/burgers/hamburg-vapor.png"
         }
       ]
@@ -43,16 +43,16 @@
       "data": [
         {
           "id": 5,
-          "name": "Coca-Cola x 500ml",
+          "name": "Coca-Cola x 330ml",
           "price": 500,
-          "description": "Coca-Cola x 500ml",
+          "description": "Coca-Cola x 330ml",
           "image": "./img/products/bebidas/Coca_cola.png"
         },
         {
           "id": 6,
-          "name": "Sprite x 500ml",
+          "name": "Sprite x 330ml",
           "price": 500,
-          "description": "Sprite x 500ml",
+          "description": "Sprite x 330ml",
           "image": "./img/products/bebidas/Sprite.png"
         },
         {

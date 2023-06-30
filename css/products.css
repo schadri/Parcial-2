@@ -10,24 +10,40 @@
 
 }
 
-.card-eye {
-    position: absolute;
-    right: 0;
+.card-cart {
+
     padding: 10px 10px 0 0;
 
 }
 
-.card-eye i {
+.card-cart i {
     font-size: 25px;
     color: white;
 }
+.card-cart p {
+    font-size: 15px;
+    color: white;
+}
 
-.card-eye button {
+.card-cart button {
     border: 0;
     background-color: rgba(0, 0, 0, 0);
+    
 }
 
 .card-img-top {
     height: 100%;
     width: 100%;
 }
+
+.alert-container {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    transition: transform 0.5s ease-out;
+    transform: translateX(100%);
+  }
+  
+  .alert-container.show {
+    transform: translateX(0);
+  }

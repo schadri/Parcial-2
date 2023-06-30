@@ -1,17 +1,16 @@
 const productsContainer = document.getElementById("products-container")
 
+const addToCart = () => {
+  var alertContainer = document.getElementById('alert-container');
+  alertContainer.classList.add('show');
+  setTimeout(() => {
+      alertContainer.classList.remove('show');
+    }, 1500);
+}
+
 const getProductTemplate = (image, cardTitle, cardPrice, cardText) => `
   <div id="card" class="col col-6 col-lg-4 col-xl-4">
     <div class="card">
-      <div class="card-eye">
-        <button
-          type="button"
-          data-bs-toggle="modal"
-          data-bs-target="#exampleModal"
-        >
-          <i class="bi bi-eye"></i>
-        </button>
-      </div>
       <img
         class="card-img-top"
         src="${image}"
@@ -21,6 +20,15 @@ const getProductTemplate = (image, cardTitle, cardPrice, cardText) => `
         <h5 class="card-title">${cardTitle}</h5>
         <p class="card-text">${cardText}</p>
         <p class="card-price">$${cardPrice}</p>
+        <div class="card-cart">
+        <div class="d-flex justify-content-center">
+          <button type="button" onclick="addToCart()">
+            <i class="bi bi-cart2">
+            <p class="compra">añadir a carrito</p>
+            </i>
+          </button>
+        </div>
+      </div>
       </div>
     </div>
   </div>

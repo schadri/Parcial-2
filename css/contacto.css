@@ -5,9 +5,22 @@
     
 }
 
+
 .send-button{
     background-color: #414344;
     color: white;
     border-color: #414344;
     margin: 15px 0;
+}
+
+.izquierda {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.formulario-title {
+    text-align: center;
+    padding: 5px 0;
 }
